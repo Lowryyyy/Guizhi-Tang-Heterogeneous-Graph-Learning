@@ -1,0 +1,25 @@
+{
+  "nodes": {
+    "herb": 5,
+    "compound": 77,
+    "target": 47,
+    "disease": 31,
+    "drug": 29
+  },
+  "edges": {
+    "herb-contains-compound": 86,
+    "compound-acts_on-target": 403,
+    "target-associated_with-disease": 415,
+    "drug-targets_protein-target": 58,
+    "drug-treats-disease": 162,
+    "target-interacts_with-target": 198,
+    "compound-may_treat-disease": 0
+  },
+  "n_labels": 154,
+  "indicators": {
+    "chembl_indication_edges": 237,
+    "string_ppi_pairs": 198
+  },
+  "total_nodes": 189,
+  "total_edges": 1322
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "compound": "Kaempferol",
+    "disease": "Gastric ulcer",
+    "score": 0.8154995679855347,
+    "shared_targets": 9
+  },
+  {
+    "compound": "Kaempferol",
+    "disease": "COVID-19",
+    "score": 0.7947494387626648,
+    "shared_targets": 10
+  },
+  {
+    "compound": "Formononetin",
+    "disease": "Rheumatoid arthritis",
+    "score": 0.7805774688720704,
+    "shared_targets": 7
+  },
+  {
+    "compound": "Kaempferol",
+    "disease": "Liver cirrhosis",
+    "score": 0.7786218881607055,
+    "shared_targets": 9
+  },
+  {
+    "compound": "Isoliquiritigenin",
+    "disease": "Hypertension",
+    "score": 0.7670694470405579,
+    "shared_targets": 10
+  },
+  {
+    "compound": "Isoliquiritigenin",
+    "disease": "COVID-19",
+    "score": 0.7494669318199157,
+    "shared_targets": 10
+  },
+  {
+    "compound": "Licochalcone A",
+    "disease": "Coronary artery disease",
+    "score": 0.7440313696861267,
+    "shared_targets": 7
+  },
+  {
+    "compound": "Formononetin",
+    "disease": "Gastric ulcer",
+    "score": 0.7436412453651429,
+    "shared_targets": 6
+  },
+  {
+    "compound": "Kaempferol",
+    "disease": "Alzheimer disease",
+    "score": 0.7377798199653626,
+    "shared_targets": 12
+  },
+  {
+    "compound": "Calycosin",
+    "disease": "Rheumatoid arthritis",
+    "score": 0.7234859228134155,
+    "shared_targets": 5
+  },
+  {
+    "compound": "Licochalcone A",
+    "disease": "Hypertension",
+    "score": 0.717392361164093,
+    "shared_targets": 6
+  },
+  {
+    "compound": "6-Gingerol",
+    "disease": "Hypertension",
+    "score": 0.7147493481636047,
+    "shared_targets": 9
+  },
+  {
+    "compound": "Quercetin",
+    "disease": "Sepsis",
+    "score": 0.714581024646759,
+    "shared_targets": 13
+  },
+  {
+    "compound": "Cinnamaldehyde",
+    "disease": "Hypertension",
+    "score": 0.711346960067749,
+    "shared_targets": 7
+  },
+  {
+    "compound": "Epicatechin",
+    "disease": "Rheumatoid arthritis",
+    "score": 0.7110812664031982,
+    "shared_targets": 6
+  },
+  {
+    "compound": "Glabridin",
+    "disease": "Rheumatoid arthritis",
+    "score": 0.7102357387542725,
+    "shared_targets": 3
+  },
+  {
+    "compound": "6-Shogaol",
+    "disease": "Coronary artery disease",
+    "score": 0.7039370894432068,
+    "shared_targets": 7
+  },
+  {
+    "compound": "Formononetin",
+    "disease": "COVID-19",
+    "score": 0.7020994544029235,
+    "shared_targets": 5
+  },
+  {
+    "compound": "6-Gingerol",
+    "disease": "Breast cancer",
+    "score": 0.701834237575531,
+    "shared_targets": 7
+  },
+  {
+    "compound": "Isorhamnetin",
+    "disease": "Breast cancer",
+    "score": 0.7009219646453857,
+    "shared_targets": 6
+  }
+]

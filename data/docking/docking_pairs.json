@@ -1,0 +1,446 @@
+{
+  "predicted": [
+    {
+      "compound": "Kaempferol",
+      "target": "AKT1",
+      "disease": "Pancreatic cancer"
+    },
+    {
+      "compound": "Kaempferol",
+      "target": "BCL2",
+      "disease": "Pancreatic cancer"
+    },
+    {
+      "compound": "Kaempferol",
+      "target": "CASP3",
+      "disease": "Pancreatic cancer"
+    },
+    {
+      "compound": "Kaempferol",
+      "target": "CDK2",
+      "disease": "Pancreatic cancer"
+    },
+    {
+      "compound": "Kaempferol",
+      "target": "HRAS",
+      "disease": "Pancreatic cancer"
+    },
+    {
+      "compound": "Kaempferol",
+      "target": "MMP2",
+      "disease": "Pancreatic cancer"
+    },
+    {
+      "compound": "Kaempferol",
+      "target": "SRC",
+      "disease": "Pancreatic cancer"
+    },
+    {
+      "compound": "6-Gingerol",
+      "target": "AKT1",
+      "disease": "Breast cancer"
+    },
+    {
+      "compound": "6-Gingerol",
+      "target": "BCL2",
+      "disease": "Breast cancer"
+    },
+    {
+      "compound": "6-Gingerol",
+      "target": "CASP3",
+      "disease": "Breast cancer"
+    },
+    {
+      "compound": "6-Gingerol",
+      "target": "PTGS2",
+      "disease": "Breast cancer"
+    },
+    {
+      "compound": "6-Gingerol",
+      "target": "TNF",
+      "disease": "Breast cancer"
+    },
+    {
+      "compound": "6-Gingerol",
+      "target": "AKT1",
+      "disease": "Lung cancer"
+    },
+    {
+      "compound": "6-Gingerol",
+      "target": "BCL2",
+      "disease": "Lung cancer"
+    },
+    {
+      "compound": "6-Gingerol",
+      "target": "CASP3",
+      "disease": "Lung cancer"
+    },
+    {
+      "compound": "6-Gingerol",
+      "target": "TNF",
+      "disease": "Lung cancer"
+    }
+  ],
+  "decoy": [
+    {
+      "compound": "Amantadine",
+      "target": "AKT1",
+      "disease": null
+    },
+    {
+      "compound": "Amantadine",
+      "target": "BCL2",
+      "disease": null
+    },
+    {
+      "compound": "Amantadine",
+      "target": "CASP3",
+      "disease": null
+    },
+    {
+      "compound": "Amantadine",
+      "target": "CDK2",
+      "disease": null
+    },
+    {
+      "compound": "Amantadine",
+      "target": "SRC",
+      "disease": null
+    },
+    {
+      "compound": "Amantadine",
+      "target": "PTGS2",
+      "disease": null
+    },
+    {
+      "compound": "Amantadine",
+      "target": "TNF",
+      "disease": null
+    },
+    {
+      "compound": "Amantadine",
+      "target": "HRAS",
+      "disease": null
+    },
+    {
+      "compound": "Amantadine",
+      "target": "MMP2",
+      "disease": null
+    },
+    {
+      "compound": "Amitriptyline",
+      "target": "AKT1",
+      "disease": null
+    },
+    {
+      "compound": "Amitriptyline",
+      "target": "BCL2",
+      "disease": null
+    },
+    {
+      "compound": "Amitriptyline",
+      "target": "CASP3",
+      "disease": null
+    },
+    {
+      "compound": "Amitriptyline",
+      "target": "CDK2",
+      "disease": null
+    },
+    {
+      "compound": "Amitriptyline",
+      "target": "SRC",
+      "disease": null
+    },
+    {
+      "compound": "Amitriptyline",
+      "target": "PTGS2",
+      "disease": null
+    },
+    {
+      "compound": "Amitriptyline",
+      "target": "TNF",
+      "disease": null
+    },
+    {
+      "compound": "Amitriptyline",
+      "target": "HRAS",
+      "disease": null
+    },
+    {
+      "compound": "Amitriptyline",
+      "target": "MMP2",
+      "disease": null
+    },
+    {
+      "compound": "Ciprofloxacin",
+      "target": "AKT1",
+      "disease": null
+    },
+    {
+      "compound": "Ciprofloxacin",
+      "target": "BCL2",
+      "disease": null
+    },
+    {
+      "compound": "Ciprofloxacin",
+      "target": "CASP3",
+      "disease": null
+    },
+    {
+      "compound": "Ciprofloxacin",
+      "target": "CDK2",
+      "disease": null
+    },
+    {
+      "compound": "Ciprofloxacin",
+      "target": "SRC",
+      "disease": null
+    },
+    {
+      "compound": "Ciprofloxacin",
+      "target": "PTGS2",
+      "disease": null
+    },
+    {
+      "compound": "Ciprofloxacin",
+      "target": "TNF",
+      "disease": null
+    },
+    {
+      "compound": "Ciprofloxacin",
+      "target": "HRAS",
+      "disease": null
+    },
+    {
+      "compound": "Ciprofloxacin",
+      "target": "MMP2",
+      "disease": null
+    },
+    {
+      "compound": "Reserpine",
+      "target": "AKT1",
+      "disease": null
+    },
+    {
+      "compound": "Reserpine",
+      "target": "BCL2",
+      "disease": null
+    },
+    {
+      "compound": "Reserpine",
+      "target": "CASP3",
+      "disease": null
+    },
+    {
+      "compound": "Reserpine",
+      "target": "CDK2",
+      "disease": null
+    },
+    {
+      "compound": "Reserpine",
+      "target": "SRC",
+      "disease": null
+    },
+    {
+      "compound": "Reserpine",
+      "target": "PTGS2",
+      "disease": null
+    },
+    {
+      "compound": "Reserpine",
+      "target": "TNF",
+      "disease": null
+    },
+    {
+      "compound": "Reserpine",
+      "target": "HRAS",
+      "disease": null
+    },
+    {
+      "compound": "Reserpine",
+      "target": "MMP2",
+      "disease": null
+    },
+    {
+      "compound": "Valproic acid",
+      "target": "AKT1",
+      "disease": null
+    },
+    {
+      "compound": "Valproic acid",
+      "target": "BCL2",
+      "disease": null
+    },
+    {
+      "compound": "Valproic acid",
+      "target": "CASP3",
+      "disease": null
+    },
+    {
+      "compound": "Valproic acid",
+      "target": "CDK2",
+      "disease": null
+    },
+    {
+      "compound": "Valproic acid",
+      "target": "SRC",
+      "disease": null
+    },
+    {
+      "compound": "Valproic acid",
+      "target": "PTGS2",
+      "disease": null
+    },
+    {
+      "compound": "Valproic acid",
+      "target": "TNF",
+      "disease": null
+    },
+    {
+      "compound": "Valproic acid",
+      "target": "HRAS",
+      "disease": null
+    },
+    {
+      "compound": "Valproic acid",
+      "target": "MMP2",
+      "disease": null
+    },
+    {
+      "compound": "Metformin",
+      "target": "AKT1",
+      "disease": null
+    },
+    {
+      "compound": "Metformin",
+      "target": "BCL2",
+      "disease": null
+    },
+    {
+      "compound": "Metformin",
+      "target": "CASP3",
+      "disease": null
+    },
+    {
+      "compound": "Metformin",
+      "target": "CDK2",
+      "disease": null
+    },
+    {
+      "compound": "Metformin",
+      "target": "SRC",
+      "disease": null
+    },
+    {
+      "compound": "Metformin",
+      "target": "PTGS2",
+      "disease": null
+    },
+    {
+      "compound": "Metformin",
+      "target": "TNF",
+      "disease": null
+    },
+    {
+      "compound": "Metformin",
+      "target": "HRAS",
+      "disease": null
+    },
+    {
+      "compound": "Metformin",
+      "target": "MMP2",
+      "disease": null
+    },
+    {
+      "compound": "Nifedipine",
+      "target": "AKT1",
+      "disease": null
+    },
+    {
+      "compound": "Nifedipine",
+      "target": "BCL2",
+      "disease": null
+    },
+    {
+      "compound": "Nifedipine",
+      "target": "CASP3",
+      "disease": null
+    },
+    {
+      "compound": "Nifedipine",
+      "target": "CDK2",
+      "disease": null
+    },
+    {
+      "compound": "Nifedipine",
+      "target": "SRC",
+      "disease": null
+    },
+    {
+      "compound": "Nifedipine",
+      "target": "PTGS2",
+      "disease": null
+    },
+    {
+      "compound": "Nifedipine",
+      "target": "TNF",
+      "disease": null
+    },
+    {
+      "compound": "Nifedipine",
+      "target": "HRAS",
+      "disease": null
+    },
+    {
+      "compound": "Nifedipine",
+      "target": "MMP2",
+      "disease": null
+    },
+    {
+      "compound": "Acetaminophen",
+      "target": "AKT1",
+      "disease": null
+    },
+    {
+      "compound": "Acetaminophen",
+      "target": "BCL2",
+      "disease": null
+    },
+    {
+      "compound": "Acetaminophen",
+      "target": "CASP3",
+      "disease": null
+    },
+    {
+      "compound": "Acetaminophen",
+      "target": "CDK2",
+      "disease": null
+    },
+    {
+      "compound": "Acetaminophen",
+      "target": "SRC",
+      "disease": null
+    },
+    {
+      "compound": "Acetaminophen",
+      "target": "PTGS2",
+      "disease": null
+    },
+    {
+      "compound": "Acetaminophen",
+      "target": "TNF",
+      "disease": null
+    },
+    {
+      "compound": "Acetaminophen",
+      "target": "HRAS",
+      "disease": null
+    },
+    {
+      "compound": "Acetaminophen",
+      "target": "MMP2",
+      "disease": null
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "ablation": "no herb layer",
+    "auc_mean": 0.9408947700063012,
+    "auc_std": 0.012540490684470206,
+    "auprc_mean": 0.7766102433611805,
+    "auprc_std": 0.04870402246946636,
+    "n_seeds": 3
+  },
+  {
+    "ablation": "no drug layer",
+    "auc_mean": 0.9463137996219282,
+    "auc_std": 0.011091539118179238,
+    "auprc_mean": 0.7959261453560776,
+    "auprc_std": 0.046465561384450786,
+    "n_seeds": 3
+  },
+  {
+    "ablation": "no PPI",
+    "auc_mean": 0.9419029615626968,
+    "auc_std": 0.011402207471977292,
+    "auprc_mean": 0.7685180286070903,
+    "auprc_std": 0.05498451378434009,
+    "n_seeds": 3
+  },
+  {
+    "ablation": "no disease-target annotations",
+    "auc_mean": 0.9492123503465658,
+    "auc_std": 0.010703877690024413,
+    "auprc_mean": 0.8042754043417467,
+    "auprc_std": 0.045552887791706576,
+    "n_seeds": 3
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "degree_feature_logistic": {
+    "auc_mean": 0.8396914123796847,
+    "auc_std": 0.04412889375639203
+  },
+  "shared_target_count_rule": {
+    "auc_mean": 0.870077205425091,
+    "auc_std": 0.033897857563675714
+  },
+  "note": "Degree/feature-only baseline uses compound target degree, disease target degree, herb count, OB, DL. Shared-target rule uses the number of proteins shared by a compound and a disease as the prediction score."
+}

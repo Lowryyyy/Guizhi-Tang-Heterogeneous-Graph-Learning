@@ -1,0 +1,2378 @@
+[
+  {
+    "compound": "Kaempferol",
+    "target": "AKT1",
+    "disease": "Pancreatic cancer",
+    "pdb": "4EKL",
+    "center": [
+      28.03,
+      5.22,
+      10.89
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 0RF (allosteric pocket)",
+    "set": "predicted",
+    "best_affinity": -7.79,
+    "n_modes": 9,
+    "all_affinities": [
+      -7.79,
+      -7.625,
+      -7.494,
+      -7.492,
+      -7.472,
+      -7.408,
+      -7.275,
+      -7.241,
+      -7.124
+    ]
+  },
+  {
+    "compound": "Amantadine",
+    "target": "AKT1",
+    "disease": null,
+    "pdb": "4EKL",
+    "center": [
+      28.03,
+      5.22,
+      10.89
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 0RF (allosteric pocket)",
+    "set": "decoy",
+    "best_affinity": -5.793,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.793,
+      -5.793,
+      -5.777,
+      -5.22,
+      -5.203,
+      -5.122,
+      -4.713,
+      -4.651,
+      39.49
+    ]
+  },
+  {
+    "compound": "6-Gingerol",
+    "target": "AKT1",
+    "disease": "Lung cancer",
+    "pdb": "4EKL",
+    "center": [
+      28.03,
+      5.22,
+      10.89
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 0RF (allosteric pocket)",
+    "set": "predicted",
+    "best_affinity": -6.682,
+    "n_modes": 9,
+    "all_affinities": [
+      -6.682,
+      -6.332,
+      -6.244,
+      -6.218,
+      -6.139,
+      -6.102,
+      -6.082,
+      -5.976,
+      -5.94
+    ]
+  },
+  {
+    "compound": "6-Gingerol",
+    "target": "AKT1",
+    "disease": "Breast cancer",
+    "pdb": "4EKL",
+    "center": [
+      28.03,
+      5.22,
+      10.89
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 0RF (allosteric pocket)",
+    "set": "predicted",
+    "best_affinity": -6.682,
+    "n_modes": 9,
+    "all_affinities": [
+      -6.682,
+      -6.332,
+      -6.244,
+      -6.218,
+      -6.139,
+      -6.102,
+      -6.082,
+      -5.976,
+      -5.94
+    ]
+  },
+  {
+    "compound": "Amitriptyline",
+    "target": "AKT1",
+    "disease": null,
+    "pdb": "4EKL",
+    "center": [
+      28.03,
+      5.22,
+      10.89
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 0RF (allosteric pocket)",
+    "set": "decoy",
+    "best_affinity": -7.927,
+    "n_modes": 9,
+    "all_affinities": [
+      -7.927,
+      -7.898,
+      -7.858,
+      -7.68,
+      -7.401,
+      -7.272,
+      -7.169,
+      -6.851,
+      -6.294
+    ]
+  },
+  {
+    "compound": "Ciprofloxacin",
+    "target": "AKT1",
+    "disease": null,
+    "pdb": "4EKL",
+    "center": [
+      28.03,
+      5.22,
+      10.89
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 0RF (allosteric pocket)",
+    "set": "decoy",
+    "best_affinity": -7.971,
+    "n_modes": 9,
+    "all_affinities": [
+      -7.971,
+      -7.887,
+      -7.817,
+      -7.775,
+      -7.67,
+      -7.627,
+      -7.581,
+      -7.51,
+      -7.442
+    ]
+  },
+  {
+    "compound": "Valproic acid",
+    "target": "AKT1",
+    "disease": null,
+    "pdb": "4EKL",
+    "center": [
+      28.03,
+      5.22,
+      10.89
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 0RF (allosteric pocket)",
+    "set": "decoy",
+    "best_affinity": -5.081,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.081,
+      -5.0,
+      -4.948,
+      -4.892,
+      -4.607,
+      -4.598,
+      -4.555,
+      -4.405,
+      -4.401
+    ]
+  },
+  {
+    "compound": "Metformin",
+    "target": "AKT1",
+    "disease": null,
+    "pdb": "4EKL",
+    "center": [
+      28.03,
+      5.22,
+      10.89
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 0RF (allosteric pocket)",
+    "set": "decoy",
+    "best_affinity": -4.809,
+    "n_modes": 9,
+    "all_affinities": [
+      -4.809,
+      -4.584,
+      -4.511,
+      -4.294,
+      -4.23,
+      -4.213,
+      -4.156,
+      -4.145,
+      -4.069
+    ]
+  },
+  {
+    "compound": "Acetaminophen",
+    "target": "AKT1",
+    "disease": null,
+    "pdb": "4EKL",
+    "center": [
+      28.03,
+      5.22,
+      10.89
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 0RF (allosteric pocket)",
+    "set": "decoy",
+    "best_affinity": -5.896,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.896,
+      -5.615,
+      -5.429,
+      -5.374,
+      -5.369,
+      -5.286,
+      -5.172,
+      -5.148,
+      -5.076
+    ]
+  },
+  {
+    "compound": "Nifedipine",
+    "target": "AKT1",
+    "disease": null,
+    "pdb": "4EKL",
+    "center": [
+      28.03,
+      5.22,
+      10.89
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 0RF (allosteric pocket)",
+    "set": "decoy",
+    "best_affinity": -6.822,
+    "n_modes": 9,
+    "all_affinities": [
+      -6.822,
+      -6.315,
+      -5.872,
+      -5.821,
+      -5.649,
+      -5.391,
+      -5.378,
+      -5.31,
+      -5.277
+    ]
+  },
+  {
+    "compound": "Kaempferol",
+    "target": "BCL2",
+    "disease": "Pancreatic cancer",
+    "pdb": "4LVT",
+    "center": [
+      7.63,
+      -2.99,
+      -8.72
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 1XJ (BH3 groove)",
+    "set": "predicted",
+    "best_affinity": -6.905,
+    "n_modes": 9,
+    "all_affinities": [
+      -6.905,
+      -6.801,
+      -6.779,
+      -6.754,
+      -6.731,
+      -6.441,
+      -6.344,
+      -6.318,
+      -6.262
+    ]
+  },
+  {
+    "compound": "6-Gingerol",
+    "target": "BCL2",
+    "disease": "Breast cancer",
+    "pdb": "4LVT",
+    "center": [
+      7.63,
+      -2.99,
+      -8.72
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 1XJ (BH3 groove)",
+    "set": "predicted",
+    "best_affinity": -5.651,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.651,
+      -5.522,
+      -5.504,
+      -5.484,
+      -5.482,
+      -5.466,
+      -5.411,
+      -5.407,
+      -5.356
+    ]
+  },
+  {
+    "compound": "6-Gingerol",
+    "target": "BCL2",
+    "disease": "Lung cancer",
+    "pdb": "4LVT",
+    "center": [
+      7.63,
+      -2.99,
+      -8.72
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 1XJ (BH3 groove)",
+    "set": "predicted",
+    "best_affinity": -5.651,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.651,
+      -5.522,
+      -5.504,
+      -5.484,
+      -5.482,
+      -5.466,
+      -5.411,
+      -5.407,
+      -5.356
+    ]
+  },
+  {
+    "compound": "Amantadine",
+    "target": "BCL2",
+    "disease": null,
+    "pdb": "4LVT",
+    "center": [
+      7.63,
+      -2.99,
+      -8.72
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 1XJ (BH3 groove)",
+    "set": "decoy",
+    "best_affinity": -5.481,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.481,
+      -5.471,
+      -5.449,
+      -5.279,
+      -5.271,
+      -5.27,
+      -5.242,
+      -5.231,
+      -5.062
+    ]
+  },
+  {
+    "compound": "Amitriptyline",
+    "target": "BCL2",
+    "disease": null,
+    "pdb": "4LVT",
+    "center": [
+      7.63,
+      -2.99,
+      -8.72
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 1XJ (BH3 groove)",
+    "set": "decoy",
+    "best_affinity": -8.374,
+    "n_modes": 9,
+    "all_affinities": [
+      -8.374,
+      -7.465,
+      -7.224,
+      -7.132,
+      -6.886,
+      -6.886,
+      -6.851,
+      -6.64,
+      -6.456
+    ]
+  },
+  {
+    "compound": "Ciprofloxacin",
+    "target": "BCL2",
+    "disease": null,
+    "pdb": "4LVT",
+    "center": [
+      7.63,
+      -2.99,
+      -8.72
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 1XJ (BH3 groove)",
+    "set": "decoy",
+    "best_affinity": -7.085,
+    "n_modes": 9,
+    "all_affinities": [
+      -7.085,
+      -6.763,
+      -6.657,
+      -6.262,
+      -6.233,
+      -6.174,
+      -6.147,
+      -6.121,
+      -5.998
+    ]
+  },
+  {
+    "compound": "Reserpine",
+    "target": "AKT1",
+    "disease": null,
+    "pdb": "4EKL",
+    "center": [
+      28.03,
+      5.22,
+      10.89
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 0RF (allosteric pocket)",
+    "set": "decoy",
+    "best_affinity": -8.654,
+    "n_modes": 9,
+    "all_affinities": [
+      -8.654,
+      -8.532,
+      -8.421,
+      -8.161,
+      -8.143,
+      -8.051,
+      -8.037,
+      -8.007,
+      -7.681
+    ]
+  },
+  {
+    "compound": "Valproic acid",
+    "target": "BCL2",
+    "disease": null,
+    "pdb": "4LVT",
+    "center": [
+      7.63,
+      -2.99,
+      -8.72
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 1XJ (BH3 groove)",
+    "set": "decoy",
+    "best_affinity": -4.939,
+    "n_modes": 9,
+    "all_affinities": [
+      -4.939,
+      -4.835,
+      -4.827,
+      -4.627,
+      -4.442,
+      -4.348,
+      -4.326,
+      -4.188,
+      -4.132
+    ]
+  },
+  {
+    "compound": "Metformin",
+    "target": "BCL2",
+    "disease": null,
+    "pdb": "4LVT",
+    "center": [
+      7.63,
+      -2.99,
+      -8.72
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 1XJ (BH3 groove)",
+    "set": "decoy",
+    "best_affinity": -4.064,
+    "n_modes": 9,
+    "all_affinities": [
+      -4.064,
+      -3.801,
+      -3.752,
+      -3.712,
+      -3.688,
+      -3.646,
+      -3.622,
+      -3.249,
+      -3.174
+    ]
+  },
+  {
+    "compound": "Acetaminophen",
+    "target": "BCL2",
+    "disease": null,
+    "pdb": "4LVT",
+    "center": [
+      7.63,
+      -2.99,
+      -8.72
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 1XJ (BH3 groove)",
+    "set": "decoy",
+    "best_affinity": -5.493,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.493,
+      -5.057,
+      -4.917,
+      -4.9,
+      -4.799,
+      -4.786,
+      -4.743,
+      -4.311,
+      -4.309
+    ]
+  },
+  {
+    "compound": "Kaempferol",
+    "target": "CASP3",
+    "disease": "Pancreatic cancer",
+    "pdb": "1NME",
+    "center": [
+      42.09,
+      96.34,
+      24.13
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 159 (active site)",
+    "set": "predicted",
+    "best_affinity": -7.837,
+    "n_modes": 9,
+    "all_affinities": [
+      -7.837,
+      -7.602,
+      -6.791,
+      -6.761,
+      -6.572,
+      -6.492,
+      -6.3,
+      -6.28,
+      -6.114
+    ]
+  },
+  {
+    "compound": "Nifedipine",
+    "target": "BCL2",
+    "disease": null,
+    "pdb": "4LVT",
+    "center": [
+      7.63,
+      -2.99,
+      -8.72
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 1XJ (BH3 groove)",
+    "set": "decoy",
+    "best_affinity": -6.076,
+    "n_modes": 9,
+    "all_affinities": [
+      -6.076,
+      -5.925,
+      -5.85,
+      -5.673,
+      -5.632,
+      -5.589,
+      -5.557,
+      -5.264,
+      -5.081
+    ]
+  },
+  {
+    "compound": "Reserpine",
+    "target": "BCL2",
+    "disease": null,
+    "pdb": "4LVT",
+    "center": [
+      7.63,
+      -2.99,
+      -8.72
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 1XJ (BH3 groove)",
+    "set": "decoy",
+    "best_affinity": -7.086,
+    "n_modes": 9,
+    "all_affinities": [
+      -7.086,
+      -7.082,
+      -7.062,
+      -7.062,
+      -7.036,
+      -6.907,
+      -6.852,
+      -6.755,
+      -6.706
+    ]
+  },
+  {
+    "compound": "6-Gingerol",
+    "target": "CASP3",
+    "disease": "Breast cancer",
+    "pdb": "1NME",
+    "center": [
+      42.09,
+      96.34,
+      24.13
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 159 (active site)",
+    "set": "predicted",
+    "best_affinity": -5.533,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.533,
+      -5.5,
+      -5.469,
+      -5.413,
+      -5.376,
+      -5.333,
+      -5.228,
+      -5.187,
+      -5.159
+    ]
+  },
+  {
+    "compound": "6-Gingerol",
+    "target": "CASP3",
+    "disease": "Lung cancer",
+    "pdb": "1NME",
+    "center": [
+      42.09,
+      96.34,
+      24.13
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 159 (active site)",
+    "set": "predicted",
+    "best_affinity": -5.533,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.533,
+      -5.5,
+      -5.469,
+      -5.413,
+      -5.376,
+      -5.333,
+      -5.228,
+      -5.187,
+      -5.159
+    ]
+  },
+  {
+    "compound": "Amantadine",
+    "target": "CASP3",
+    "disease": null,
+    "pdb": "1NME",
+    "center": [
+      42.09,
+      96.34,
+      24.13
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 159 (active site)",
+    "set": "decoy",
+    "best_affinity": -4.289,
+    "n_modes": 9,
+    "all_affinities": [
+      -4.289,
+      -4.279,
+      -4.208,
+      -4.196,
+      -4.196,
+      -4.179,
+      -4.177,
+      -4.095,
+      -4.072
+    ]
+  },
+  {
+    "compound": "Amitriptyline",
+    "target": "CASP3",
+    "disease": null,
+    "pdb": "1NME",
+    "center": [
+      42.09,
+      96.34,
+      24.13
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 159 (active site)",
+    "set": "decoy",
+    "best_affinity": -6.3,
+    "n_modes": 9,
+    "all_affinities": [
+      -6.3,
+      -6.2,
+      -6.166,
+      -6.055,
+      -5.969,
+      -5.906,
+      -5.89,
+      -5.871,
+      -5.836
+    ]
+  },
+  {
+    "compound": "Ciprofloxacin",
+    "target": "CASP3",
+    "disease": null,
+    "pdb": "1NME",
+    "center": [
+      42.09,
+      96.34,
+      24.13
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 159 (active site)",
+    "set": "decoy",
+    "best_affinity": -7.252,
+    "n_modes": 9,
+    "all_affinities": [
+      -7.252,
+      -7.069,
+      -6.992,
+      -6.462,
+      -6.344,
+      -6.331,
+      -6.246,
+      -5.936,
+      -5.898
+    ]
+  },
+  {
+    "compound": "Valproic acid",
+    "target": "CASP3",
+    "disease": null,
+    "pdb": "1NME",
+    "center": [
+      42.09,
+      96.34,
+      24.13
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 159 (active site)",
+    "set": "decoy",
+    "best_affinity": -3.984,
+    "n_modes": 9,
+    "all_affinities": [
+      -3.984,
+      -3.824,
+      -3.817,
+      -3.782,
+      -3.782,
+      -3.691,
+      -3.647,
+      -3.638,
+      -3.535
+    ]
+  },
+  {
+    "compound": "Metformin",
+    "target": "CASP3",
+    "disease": null,
+    "pdb": "1NME",
+    "center": [
+      42.09,
+      96.34,
+      24.13
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 159 (active site)",
+    "set": "decoy",
+    "best_affinity": -4.672,
+    "n_modes": 9,
+    "all_affinities": [
+      -4.672,
+      -4.543,
+      -4.421,
+      -4.11,
+      -4.009,
+      -4.001,
+      -3.952,
+      -3.804,
+      -3.759
+    ]
+  },
+  {
+    "compound": "Acetaminophen",
+    "target": "CASP3",
+    "disease": null,
+    "pdb": "1NME",
+    "center": [
+      42.09,
+      96.34,
+      24.13
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 159 (active site)",
+    "set": "decoy",
+    "best_affinity": -5.122,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.122,
+      -4.745,
+      -4.742,
+      -4.63,
+      -4.522,
+      -4.498,
+      -4.486,
+      -4.375,
+      -4.362
+    ]
+  },
+  {
+    "compound": "Nifedipine",
+    "target": "CASP3",
+    "disease": null,
+    "pdb": "1NME",
+    "center": [
+      42.09,
+      96.34,
+      24.13
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 159 (active site)",
+    "set": "decoy",
+    "best_affinity": -5.936,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.936,
+      -5.624,
+      -5.434,
+      -5.416,
+      -5.25,
+      -5.247,
+      -5.242,
+      -5.235,
+      -4.988
+    ]
+  },
+  {
+    "compound": "Amantadine",
+    "target": "CDK2",
+    "disease": null,
+    "pdb": "1HCK",
+    "center": [
+      100.54,
+      97.89,
+      81.72
+    ],
+    "size": 25,
+    "pocket": "ATP-binding site (ATP ligand centroid)",
+    "set": "decoy",
+    "best_affinity": -5.241,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.241,
+      -5.231,
+      -5.229,
+      -5.148,
+      -5.146,
+      -5.137,
+      -5.059,
+      -5.002,
+      -4.949
+    ]
+  },
+  {
+    "compound": "Kaempferol",
+    "target": "CDK2",
+    "disease": "Pancreatic cancer",
+    "pdb": "1HCK",
+    "center": [
+      100.54,
+      97.89,
+      81.72
+    ],
+    "size": 25,
+    "pocket": "ATP-binding site (ATP ligand centroid)",
+    "set": "predicted",
+    "best_affinity": -8.569,
+    "n_modes": 9,
+    "all_affinities": [
+      -8.569,
+      -8.264,
+      -8.201,
+      -8.096,
+      -7.867,
+      -7.824,
+      -7.802,
+      -7.545,
+      -7.312
+    ]
+  },
+  {
+    "compound": "Amitriptyline",
+    "target": "CDK2",
+    "disease": null,
+    "pdb": "1HCK",
+    "center": [
+      100.54,
+      97.89,
+      81.72
+    ],
+    "size": 25,
+    "pocket": "ATP-binding site (ATP ligand centroid)",
+    "set": "decoy",
+    "best_affinity": -8.702,
+    "n_modes": 9,
+    "all_affinities": [
+      -8.702,
+      -8.133,
+      -8.014,
+      -7.93,
+      -7.843,
+      -7.263,
+      -7.174,
+      -6.584,
+      -6.104
+    ]
+  },
+  {
+    "compound": "Ciprofloxacin",
+    "target": "CDK2",
+    "disease": null,
+    "pdb": "1HCK",
+    "center": [
+      100.54,
+      97.89,
+      81.72
+    ],
+    "size": 25,
+    "pocket": "ATP-binding site (ATP ligand centroid)",
+    "set": "decoy",
+    "best_affinity": -9.204,
+    "n_modes": 9,
+    "all_affinities": [
+      -9.204,
+      -8.135,
+      -7.828,
+      -7.469,
+      -7.445,
+      -7.421,
+      -7.179,
+      -6.954,
+      -6.952
+    ]
+  },
+  {
+    "compound": "Reserpine",
+    "target": "CASP3",
+    "disease": null,
+    "pdb": "1NME",
+    "center": [
+      42.09,
+      96.34,
+      24.13
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor 159 (active site)",
+    "set": "decoy",
+    "best_affinity": -7.706,
+    "n_modes": 9,
+    "all_affinities": [
+      -7.706,
+      -7.674,
+      -7.603,
+      -7.244,
+      -7.244,
+      -6.97,
+      -6.963,
+      -6.947,
+      -6.901
+    ]
+  },
+  {
+    "compound": "Valproic acid",
+    "target": "CDK2",
+    "disease": null,
+    "pdb": "1HCK",
+    "center": [
+      100.54,
+      97.89,
+      81.72
+    ],
+    "size": 25,
+    "pocket": "ATP-binding site (ATP ligand centroid)",
+    "set": "decoy",
+    "best_affinity": -5.205,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.205,
+      -5.15,
+      -4.895,
+      -4.661,
+      -4.565,
+      -4.537,
+      -4.483,
+      -4.241,
+      -4.095
+    ]
+  },
+  {
+    "compound": "Metformin",
+    "target": "CDK2",
+    "disease": null,
+    "pdb": "1HCK",
+    "center": [
+      100.54,
+      97.89,
+      81.72
+    ],
+    "size": 25,
+    "pocket": "ATP-binding site (ATP ligand centroid)",
+    "set": "decoy",
+    "best_affinity": -4.702,
+    "n_modes": 9,
+    "all_affinities": [
+      -4.702,
+      -4.365,
+      -4.136,
+      -4.135,
+      -4.045,
+      -4.027,
+      -4.019,
+      -3.988,
+      -3.985
+    ]
+  },
+  {
+    "compound": "Acetaminophen",
+    "target": "CDK2",
+    "disease": null,
+    "pdb": "1HCK",
+    "center": [
+      100.54,
+      97.89,
+      81.72
+    ],
+    "size": 25,
+    "pocket": "ATP-binding site (ATP ligand centroid)",
+    "set": "decoy",
+    "best_affinity": -5.49,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.49,
+      -5.462,
+      -5.455,
+      -5.356,
+      -5.275,
+      -5.209,
+      -5.06,
+      -5.034,
+      -5.016
+    ]
+  },
+  {
+    "compound": "Kaempferol",
+    "target": "HRAS",
+    "disease": "Pancreatic cancer",
+    "pdb": "5P21",
+    "center": [
+      11.79,
+      33.43,
+      19.66
+    ],
+    "size": 25,
+    "pocket": "GppNHp nucleotide-binding pocket",
+    "set": "predicted",
+    "best_affinity": -8.459,
+    "n_modes": 9,
+    "all_affinities": [
+      -8.459,
+      -7.975,
+      -7.933,
+      -7.839,
+      -7.545,
+      -7.544,
+      -7.521,
+      -7.446,
+      -7.381
+    ]
+  },
+  {
+    "compound": "Nifedipine",
+    "target": "CDK2",
+    "disease": null,
+    "pdb": "1HCK",
+    "center": [
+      100.54,
+      97.89,
+      81.72
+    ],
+    "size": 25,
+    "pocket": "ATP-binding site (ATP ligand centroid)",
+    "set": "decoy",
+    "best_affinity": -6.147,
+    "n_modes": 9,
+    "all_affinities": [
+      -6.147,
+      -5.855,
+      -5.634,
+      -5.52,
+      -5.364,
+      -5.261,
+      -5.133,
+      -5.036,
+      -5.024
+    ]
+  },
+  {
+    "compound": "Amantadine",
+    "target": "HRAS",
+    "disease": null,
+    "pdb": "5P21",
+    "center": [
+      11.79,
+      33.43,
+      19.66
+    ],
+    "size": 25,
+    "pocket": "GppNHp nucleotide-binding pocket",
+    "set": "decoy",
+    "best_affinity": -4.951,
+    "n_modes": 9,
+    "all_affinities": [
+      -4.951,
+      -4.93,
+      -4.924,
+      -4.875,
+      -4.739,
+      -4.649,
+      -4.616,
+      -4.613,
+      -4.61
+    ]
+  },
+  {
+    "compound": "Amitriptyline",
+    "target": "HRAS",
+    "disease": null,
+    "pdb": "5P21",
+    "center": [
+      11.79,
+      33.43,
+      19.66
+    ],
+    "size": 25,
+    "pocket": "GppNHp nucleotide-binding pocket",
+    "set": "decoy",
+    "best_affinity": -7.665,
+    "n_modes": 9,
+    "all_affinities": [
+      -7.665,
+      -7.448,
+      -7.39,
+      -7.386,
+      -7.077,
+      -6.74,
+      -6.535,
+      -6.345,
+      -6.162
+    ]
+  },
+  {
+    "compound": "Ciprofloxacin",
+    "target": "HRAS",
+    "disease": null,
+    "pdb": "5P21",
+    "center": [
+      11.79,
+      33.43,
+      19.66
+    ],
+    "size": 25,
+    "pocket": "GppNHp nucleotide-binding pocket",
+    "set": "decoy",
+    "best_affinity": -8.586,
+    "n_modes": 9,
+    "all_affinities": [
+      -8.586,
+      -8.567,
+      -8.498,
+      -8.117,
+      -7.841,
+      -7.776,
+      -7.627,
+      -7.228,
+      -7.14
+    ]
+  },
+  {
+    "compound": "Valproic acid",
+    "target": "HRAS",
+    "disease": null,
+    "pdb": "5P21",
+    "center": [
+      11.79,
+      33.43,
+      19.66
+    ],
+    "size": 25,
+    "pocket": "GppNHp nucleotide-binding pocket",
+    "set": "decoy",
+    "best_affinity": -5.284,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.284,
+      -5.073,
+      -4.802,
+      -4.685,
+      -4.684,
+      -4.587,
+      -4.323,
+      -3.967,
+      -3.943
+    ]
+  },
+  {
+    "compound": "Reserpine",
+    "target": "CDK2",
+    "disease": null,
+    "pdb": "1HCK",
+    "center": [
+      100.54,
+      97.89,
+      81.72
+    ],
+    "size": 25,
+    "pocket": "ATP-binding site (ATP ligand centroid)",
+    "set": "decoy",
+    "best_affinity": -9.82,
+    "n_modes": 9,
+    "all_affinities": [
+      -9.82,
+      -8.126,
+      -8.039,
+      -7.828,
+      -7.624,
+      -7.397,
+      -7.352,
+      -6.768,
+      -6.657
+    ]
+  },
+  {
+    "compound": "Metformin",
+    "target": "HRAS",
+    "disease": null,
+    "pdb": "5P21",
+    "center": [
+      11.79,
+      33.43,
+      19.66
+    ],
+    "size": 25,
+    "pocket": "GppNHp nucleotide-binding pocket",
+    "set": "decoy",
+    "best_affinity": -5.806,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.806,
+      -5.187,
+      -5.128,
+      -4.574,
+      -4.541,
+      -4.486,
+      -4.388,
+      -4.262,
+      -4.257
+    ]
+  },
+  {
+    "compound": "Acetaminophen",
+    "target": "HRAS",
+    "disease": null,
+    "pdb": "5P21",
+    "center": [
+      11.79,
+      33.43,
+      19.66
+    ],
+    "size": 25,
+    "pocket": "GppNHp nucleotide-binding pocket",
+    "set": "decoy",
+    "best_affinity": -6.098,
+    "n_modes": 9,
+    "all_affinities": [
+      -6.098,
+      -5.328,
+      -5.189,
+      -5.034,
+      -4.986,
+      -4.94,
+      -4.905,
+      -4.823,
+      -4.733
+    ]
+  },
+  {
+    "compound": "Nifedipine",
+    "target": "HRAS",
+    "disease": null,
+    "pdb": "5P21",
+    "center": [
+      11.79,
+      33.43,
+      19.66
+    ],
+    "size": 25,
+    "pocket": "GppNHp nucleotide-binding pocket",
+    "set": "decoy",
+    "best_affinity": -7.336,
+    "n_modes": 9,
+    "all_affinities": [
+      -7.336,
+      -6.715,
+      -6.503,
+      -6.379,
+      -6.178,
+      -6.071,
+      -5.809,
+      -5.794,
+      -5.735
+    ]
+  },
+  {
+    "compound": "Amantadine",
+    "target": "MMP2",
+    "disease": null,
+    "pdb": "1QIB",
+    "center": [
+      64.27,
+      29.45,
+      19.56
+    ],
+    "size": 25,
+    "pocket": "catalytic zinc site (centroid of catalytic Zn)",
+    "set": "decoy",
+    "best_affinity": 0.0,
+    "n_modes": 9,
+    "all_affinities": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "compound": "Kaempferol",
+    "target": "MMP2",
+    "disease": "Pancreatic cancer",
+    "pdb": "1QIB",
+    "center": [
+      64.27,
+      29.45,
+      19.56
+    ],
+    "size": 25,
+    "pocket": "catalytic zinc site (centroid of catalytic Zn)",
+    "set": "predicted",
+    "best_affinity": 0.0,
+    "n_modes": 9,
+    "all_affinities": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "compound": "Amitriptyline",
+    "target": "MMP2",
+    "disease": null,
+    "pdb": "1QIB",
+    "center": [
+      64.27,
+      29.45,
+      19.56
+    ],
+    "size": 25,
+    "pocket": "catalytic zinc site (centroid of catalytic Zn)",
+    "set": "decoy",
+    "best_affinity": 0.0,
+    "n_modes": 9,
+    "all_affinities": [
+      0.0,
+      0.0001872,
+      0.0002114,
+      0.0003893,
+      0.0005798,
+      0.0008756,
+      0.0008812,
+      0.0008951,
+      0.001346
+    ]
+  },
+  {
+    "compound": "Reserpine",
+    "target": "HRAS",
+    "disease": null,
+    "pdb": "5P21",
+    "center": [
+      11.79,
+      33.43,
+      19.66
+    ],
+    "size": 25,
+    "pocket": "GppNHp nucleotide-binding pocket",
+    "set": "decoy",
+    "best_affinity": -8.292,
+    "n_modes": 9,
+    "all_affinities": [
+      -8.292,
+      -8.207,
+      -8.009,
+      -7.994,
+      -7.973,
+      -7.924,
+      -7.909,
+      -7.767,
+      -7.709
+    ]
+  },
+  {
+    "compound": "Valproic acid",
+    "target": "MMP2",
+    "disease": null,
+    "pdb": "1QIB",
+    "center": [
+      64.27,
+      29.45,
+      19.56
+    ],
+    "size": 25,
+    "pocket": "catalytic zinc site (centroid of catalytic Zn)",
+    "set": "decoy",
+    "best_affinity": 0.0,
+    "n_modes": 9,
+    "all_affinities": [
+      0.0,
+      0.0001478,
+      0.0001478,
+      0.0001478,
+      0.0001478,
+      0.0001667,
+      0.0002797,
+      0.0002896,
+      0.0004572
+    ]
+  },
+  {
+    "compound": "Ciprofloxacin",
+    "target": "MMP2",
+    "disease": null,
+    "pdb": "1QIB",
+    "center": [
+      64.27,
+      29.45,
+      19.56
+    ],
+    "size": 25,
+    "pocket": "catalytic zinc site (centroid of catalytic Zn)",
+    "set": "decoy",
+    "best_affinity": 0.0,
+    "n_modes": 9,
+    "all_affinities": [
+      0.0,
+      6.148,
+      1.915,
+      0.0001247,
+      0.0001288,
+      0.000129,
+      0.0001663,
+      0.0001665,
+      0.000174
+    ]
+  },
+  {
+    "compound": "Metformin",
+    "target": "MMP2",
+    "disease": null,
+    "pdb": "1QIB",
+    "center": [
+      64.27,
+      29.45,
+      19.56
+    ],
+    "size": 25,
+    "pocket": "catalytic zinc site (centroid of catalytic Zn)",
+    "set": "decoy",
+    "best_affinity": 0.0,
+    "n_modes": 9,
+    "all_affinities": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "compound": "Acetaminophen",
+    "target": "MMP2",
+    "disease": null,
+    "pdb": "1QIB",
+    "center": [
+      64.27,
+      29.45,
+      19.56
+    ],
+    "size": 25,
+    "pocket": "catalytic zinc site (centroid of catalytic Zn)",
+    "set": "decoy",
+    "best_affinity": 0.0,
+    "n_modes": 9,
+    "all_affinities": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "compound": "Nifedipine",
+    "target": "MMP2",
+    "disease": null,
+    "pdb": "1QIB",
+    "center": [
+      64.27,
+      29.45,
+      19.56
+    ],
+    "size": 25,
+    "pocket": "catalytic zinc site (centroid of catalytic Zn)",
+    "set": "decoy",
+    "best_affinity": 0.0,
+    "n_modes": 9,
+    "all_affinities": [
+      0.0,
+      0.0004275,
+      0.0005651,
+      0.001149,
+      0.001487,
+      0.001629,
+      0.001633,
+      0.001646,
+      0.001829
+    ]
+  },
+  {
+    "compound": "Amantadine",
+    "target": "PTGS2",
+    "disease": null,
+    "pdb": "5KIR",
+    "center": [
+      23.21,
+      1.32,
+      34.26
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor RCX (COX-2 active site)",
+    "set": "decoy",
+    "best_affinity": -5.502,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.502,
+      -5.499,
+      -5.497,
+      -5.47,
+      -5.451,
+      -5.324,
+      -5.282,
+      -5.264,
+      -4.938
+    ]
+  },
+  {
+    "compound": "6-Gingerol",
+    "target": "PTGS2",
+    "disease": "Breast cancer",
+    "pdb": "5KIR",
+    "center": [
+      23.21,
+      1.32,
+      34.26
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor RCX (COX-2 active site)",
+    "set": "predicted",
+    "best_affinity": -7.524,
+    "n_modes": 9,
+    "all_affinities": [
+      -7.524,
+      -7.513,
+      -7.282,
+      -7.27,
+      -7.051,
+      -6.958,
+      -6.578,
+      -6.133,
+      -6.023
+    ]
+  },
+  {
+    "compound": "Amitriptyline",
+    "target": "PTGS2",
+    "disease": null,
+    "pdb": "5KIR",
+    "center": [
+      23.21,
+      1.32,
+      34.26
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor RCX (COX-2 active site)",
+    "set": "decoy",
+    "best_affinity": -9.837,
+    "n_modes": 9,
+    "all_affinities": [
+      -9.837,
+      -7.732,
+      -7.49,
+      -7.379,
+      -7.282,
+      -6.863,
+      -6.308,
+      -6.2,
+      -5.987
+    ]
+  },
+  {
+    "compound": "Reserpine",
+    "target": "MMP2",
+    "disease": null,
+    "pdb": "1QIB",
+    "center": [
+      64.27,
+      29.45,
+      19.56
+    ],
+    "size": 25,
+    "pocket": "catalytic zinc site (centroid of catalytic Zn)",
+    "set": "decoy",
+    "best_affinity": 0.0,
+    "n_modes": 9,
+    "all_affinities": [
+      0.0,
+      0.0009416,
+      0.0009878,
+      0.001807,
+      0.002151,
+      0.002398,
+      0.00274,
+      0.002903,
+      0.003209
+    ]
+  },
+  {
+    "compound": "Ciprofloxacin",
+    "target": "PTGS2",
+    "disease": null,
+    "pdb": "5KIR",
+    "center": [
+      23.21,
+      1.32,
+      34.26
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor RCX (COX-2 active site)",
+    "set": "decoy",
+    "best_affinity": -7.013,
+    "n_modes": 9,
+    "all_affinities": [
+      -7.013,
+      -6.967,
+      -6.621,
+      -6.562,
+      -6.476,
+      -6.159,
+      -5.975,
+      -5.052,
+      -3.62
+    ]
+  },
+  {
+    "compound": "Valproic acid",
+    "target": "PTGS2",
+    "disease": null,
+    "pdb": "5KIR",
+    "center": [
+      23.21,
+      1.32,
+      34.26
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor RCX (COX-2 active site)",
+    "set": "decoy",
+    "best_affinity": -5.323,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.323,
+      -4.996,
+      -4.986,
+      -4.97,
+      -4.959,
+      -4.948,
+      -4.902,
+      -4.863,
+      -4.606
+    ]
+  },
+  {
+    "compound": "Metformin",
+    "target": "PTGS2",
+    "disease": null,
+    "pdb": "5KIR",
+    "center": [
+      23.21,
+      1.32,
+      34.26
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor RCX (COX-2 active site)",
+    "set": "decoy",
+    "best_affinity": -4.911,
+    "n_modes": 9,
+    "all_affinities": [
+      -4.911,
+      -4.559,
+      -4.481,
+      -4.462,
+      -4.398,
+      -4.377,
+      -4.365,
+      -4.295,
+      -4.256
+    ]
+  },
+  {
+    "compound": "Acetaminophen",
+    "target": "PTGS2",
+    "disease": null,
+    "pdb": "5KIR",
+    "center": [
+      23.21,
+      1.32,
+      34.26
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor RCX (COX-2 active site)",
+    "set": "decoy",
+    "best_affinity": -6.109,
+    "n_modes": 9,
+    "all_affinities": [
+      -6.109,
+      -6.096,
+      -6.042,
+      -6.006,
+      -5.979,
+      -5.847,
+      -5.521,
+      -5.46,
+      -5.183
+    ]
+  },
+  {
+    "compound": "Kaempferol",
+    "target": "SRC",
+    "disease": "Pancreatic cancer",
+    "pdb": "1Y57",
+    "center": [
+      18.36,
+      35.44,
+      39.77
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor MPZ (kinase hinge)",
+    "set": "predicted",
+    "best_affinity": -8.515,
+    "n_modes": 9,
+    "all_affinities": [
+      -8.515,
+      -7.983,
+      -7.559,
+      -7.183,
+      -7.158,
+      -7.039,
+      -6.855,
+      -6.831,
+      -6.789
+    ]
+  },
+  {
+    "compound": "Amantadine",
+    "target": "SRC",
+    "disease": null,
+    "pdb": "1Y57",
+    "center": [
+      18.36,
+      35.44,
+      39.77
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor MPZ (kinase hinge)",
+    "set": "decoy",
+    "best_affinity": -5.588,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.588,
+      -5.571,
+      -5.567,
+      -5.521,
+      -5.506,
+      -5.497,
+      -5.333,
+      -5.241,
+      -5.174
+    ]
+  },
+  {
+    "compound": "Nifedipine",
+    "target": "PTGS2",
+    "disease": null,
+    "pdb": "5KIR",
+    "center": [
+      23.21,
+      1.32,
+      34.26
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor RCX (COX-2 active site)",
+    "set": "decoy",
+    "best_affinity": -5.155,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.155,
+      -5.122,
+      -4.741,
+      -4.698,
+      -4.487,
+      -4.297,
+      -4.291,
+      -3.937,
+      -3.251
+    ]
+  },
+  {
+    "compound": "Amitriptyline",
+    "target": "SRC",
+    "disease": null,
+    "pdb": "1Y57",
+    "center": [
+      18.36,
+      35.44,
+      39.77
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor MPZ (kinase hinge)",
+    "set": "decoy",
+    "best_affinity": -8.228,
+    "n_modes": 9,
+    "all_affinities": [
+      -8.228,
+      -7.704,
+      -7.692,
+      -7.558,
+      -7.36,
+      -7.296,
+      -6.899,
+      -6.886,
+      -6.838
+    ]
+  },
+  {
+    "compound": "Ciprofloxacin",
+    "target": "SRC",
+    "disease": null,
+    "pdb": "1Y57",
+    "center": [
+      18.36,
+      35.44,
+      39.77
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor MPZ (kinase hinge)",
+    "set": "decoy",
+    "best_affinity": -8.038,
+    "n_modes": 9,
+    "all_affinities": [
+      -8.038,
+      -8.028,
+      -7.908,
+      -7.889,
+      -7.474,
+      -7.465,
+      -7.291,
+      -7.183,
+      -7.072
+    ]
+  },
+  {
+    "compound": "Valproic acid",
+    "target": "SRC",
+    "disease": null,
+    "pdb": "1Y57",
+    "center": [
+      18.36,
+      35.44,
+      39.77
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor MPZ (kinase hinge)",
+    "set": "decoy",
+    "best_affinity": -4.567,
+    "n_modes": 9,
+    "all_affinities": [
+      -4.567,
+      -4.523,
+      -4.326,
+      -4.31,
+      -4.293,
+      -4.274,
+      -4.259,
+      -4.189,
+      -4.152
+    ]
+  },
+  {
+    "compound": "Metformin",
+    "target": "SRC",
+    "disease": null,
+    "pdb": "1Y57",
+    "center": [
+      18.36,
+      35.44,
+      39.77
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor MPZ (kinase hinge)",
+    "set": "decoy",
+    "best_affinity": -4.251,
+    "n_modes": 9,
+    "all_affinities": [
+      -4.251,
+      -4.175,
+      -4.076,
+      -4.071,
+      -3.926,
+      -3.786,
+      -3.772,
+      -3.653,
+      -3.555
+    ]
+  },
+  {
+    "compound": "Nifedipine",
+    "target": "SRC",
+    "disease": null,
+    "pdb": "1Y57",
+    "center": [
+      18.36,
+      35.44,
+      39.77
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor MPZ (kinase hinge)",
+    "set": "decoy",
+    "best_affinity": -6.332,
+    "n_modes": 9,
+    "all_affinities": [
+      -6.332,
+      -6.196,
+      -5.945,
+      -5.779,
+      -5.412,
+      -5.081,
+      -4.966,
+      -4.901,
+      -4.822
+    ]
+  },
+  {
+    "compound": "Acetaminophen",
+    "target": "SRC",
+    "disease": null,
+    "pdb": "1Y57",
+    "center": [
+      18.36,
+      35.44,
+      39.77
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor MPZ (kinase hinge)",
+    "set": "decoy",
+    "best_affinity": -5.506,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.506,
+      -5.211,
+      -5.149,
+      -4.876,
+      -4.751,
+      -4.704,
+      -4.694,
+      -4.674,
+      -4.486
+    ]
+  },
+  {
+    "compound": "Reserpine",
+    "target": "SRC",
+    "disease": null,
+    "pdb": "1Y57",
+    "center": [
+      18.36,
+      35.44,
+      39.77
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor MPZ (kinase hinge)",
+    "set": "decoy",
+    "best_affinity": -7.683,
+    "n_modes": 9,
+    "all_affinities": [
+      -7.683,
+      -7.643,
+      -7.638,
+      -7.5,
+      -7.246,
+      -7.154,
+      -7.119,
+      -7.082,
+      -7.063
+    ]
+  },
+  {
+    "compound": "Reserpine",
+    "target": "PTGS2",
+    "disease": null,
+    "pdb": "5KIR",
+    "center": [
+      23.21,
+      1.32,
+      34.26
+    ],
+    "size": 25,
+    "pocket": "co-crystallised inhibitor RCX (COX-2 active site)",
+    "set": "decoy",
+    "best_affinity": -4.184,
+    "n_modes": 9,
+    "all_affinities": [
+      -4.184,
+      -2.221,
+      -2.056,
+      -1.973,
+      0.08491,
+      0.09415,
+      4.445,
+      5.65,
+      7.477
+    ]
+  },
+  {
+    "compound": "6-Gingerol",
+    "target": "TNF",
+    "disease": "Breast cancer",
+    "pdb": "2AZ5",
+    "center": [
+      -19.41,
+      74.65,
+      33.85
+    ],
+    "size": 25,
+    "pocket": "co-crystallised small-molecule inhibitor 307",
+    "set": "predicted",
+    "best_affinity": -6.43,
+    "n_modes": 9,
+    "all_affinities": [
+      -6.43,
+      -6.302,
+      -6.3,
+      -6.28,
+      -6.147,
+      -6.137,
+      -6.114,
+      -6.09,
+      -6.001
+    ]
+  },
+  {
+    "compound": "Amantadine",
+    "target": "TNF",
+    "disease": null,
+    "pdb": "2AZ5",
+    "center": [
+      -19.41,
+      74.65,
+      33.85
+    ],
+    "size": 25,
+    "pocket": "co-crystallised small-molecule inhibitor 307",
+    "set": "decoy",
+    "best_affinity": -5.804,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.804,
+      -5.804,
+      -5.761,
+      -5.625,
+      -5.586,
+      -5.579,
+      -5.552,
+      -4.994,
+      -4.935
+    ]
+  },
+  {
+    "compound": "Amitriptyline",
+    "target": "TNF",
+    "disease": null,
+    "pdb": "2AZ5",
+    "center": [
+      -19.41,
+      74.65,
+      33.85
+    ],
+    "size": 25,
+    "pocket": "co-crystallised small-molecule inhibitor 307",
+    "set": "decoy",
+    "best_affinity": -8.12,
+    "n_modes": 9,
+    "all_affinities": [
+      -8.12,
+      -7.692,
+      -7.528,
+      -7.522,
+      -7.257,
+      -7.187,
+      -7.159,
+      -7.114,
+      -7.085
+    ]
+  },
+  {
+    "compound": "6-Gingerol",
+    "target": "TNF",
+    "disease": "Lung cancer",
+    "pdb": "2AZ5",
+    "center": [
+      -19.41,
+      74.65,
+      33.85
+    ],
+    "size": 25,
+    "pocket": "co-crystallised small-molecule inhibitor 307",
+    "set": "predicted",
+    "best_affinity": -6.43,
+    "n_modes": 9,
+    "all_affinities": [
+      -6.43,
+      -6.302,
+      -6.3,
+      -6.28,
+      -6.147,
+      -6.137,
+      -6.114,
+      -6.09,
+      -6.001
+    ]
+  },
+  {
+    "compound": "Ciprofloxacin",
+    "target": "TNF",
+    "disease": null,
+    "pdb": "2AZ5",
+    "center": [
+      -19.41,
+      74.65,
+      33.85
+    ],
+    "size": 25,
+    "pocket": "co-crystallised small-molecule inhibitor 307",
+    "set": "decoy",
+    "best_affinity": -8.091,
+    "n_modes": 9,
+    "all_affinities": [
+      -8.091,
+      -7.891,
+      -7.742,
+      -7.627,
+      -7.453,
+      -7.391,
+      -7.112,
+      -7.022,
+      -6.989
+    ]
+  },
+  {
+    "compound": "Valproic acid",
+    "target": "TNF",
+    "disease": null,
+    "pdb": "2AZ5",
+    "center": [
+      -19.41,
+      74.65,
+      33.85
+    ],
+    "size": 25,
+    "pocket": "co-crystallised small-molecule inhibitor 307",
+    "set": "decoy",
+    "best_affinity": -4.887,
+    "n_modes": 9,
+    "all_affinities": [
+      -4.887,
+      -4.83,
+      -4.803,
+      -4.765,
+      -4.749,
+      -4.521,
+      -4.319,
+      -4.224,
+      -4.195
+    ]
+  },
+  {
+    "compound": "Metformin",
+    "target": "TNF",
+    "disease": null,
+    "pdb": "2AZ5",
+    "center": [
+      -19.41,
+      74.65,
+      33.85
+    ],
+    "size": 25,
+    "pocket": "co-crystallised small-molecule inhibitor 307",
+    "set": "decoy",
+    "best_affinity": -4.696,
+    "n_modes": 9,
+    "all_affinities": [
+      -4.696,
+      -4.438,
+      -4.438,
+      -4.34,
+      -4.312,
+      -4.256,
+      -4.189,
+      -4.05,
+      -3.982
+    ]
+  },
+  {
+    "compound": "Acetaminophen",
+    "target": "TNF",
+    "disease": null,
+    "pdb": "2AZ5",
+    "center": [
+      -19.41,
+      74.65,
+      33.85
+    ],
+    "size": 25,
+    "pocket": "co-crystallised small-molecule inhibitor 307",
+    "set": "decoy",
+    "best_affinity": -5.335,
+    "n_modes": 9,
+    "all_affinities": [
+      -5.335,
+      -5.263,
+      -5.193,
+      -4.997,
+      -4.951,
+      -4.904,
+      -4.8,
+      -4.704,
+      -4.461
+    ]
+  },
+  {
+    "compound": "Nifedipine",
+    "target": "TNF",
+    "disease": null,
+    "pdb": "2AZ5",
+    "center": [
+      -19.41,
+      74.65,
+      33.85
+    ],
+    "size": 25,
+    "pocket": "co-crystallised small-molecule inhibitor 307",
+    "set": "decoy",
+    "best_affinity": -6.789,
+    "n_modes": 9,
+    "all_affinities": [
+      -6.789,
+      -6.751,
+      -6.678,
+      -6.641,
+      -6.386,
+      -6.334,
+      -6.321,
+      -5.855,
+      -5.767
+    ]
+  },
+  {
+    "compound": "Reserpine",
+    "target": "TNF",
+    "disease": null,
+    "pdb": "2AZ5",
+    "center": [
+      -19.41,
+      74.65,
+      33.85
+    ],
+    "size": 25,
+    "pocket": "co-crystallised small-molecule inhibitor 307",
+    "set": "decoy",
+    "best_affinity": -8.377,
+    "n_modes": 9,
+    "all_affinities": [
+      -8.377,
+      -8.351,
+      -8.257,
+      -8.235,
+      -8.178,
+      -8.046,
+      -7.906,
+      -7.696,
+      -7.691
+    ]
+  }
+]

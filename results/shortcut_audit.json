@@ -1,0 +1,10 @@
+{
+  "n_labels": 154,
+  "labels_with_target_bridge": 152,
+  "labels_with_drug_bridge": 147,
+  "labels_with_target_and_drug_bridge": 147,
+  "fraction_labels_with_target_bridge": 0.987012987012987,
+  "labels_connected_by_old_synthetic_drug_edges": 152,
+  "fraction_connected_by_old_synthetic_drug_edges": 0.987012987012987,
+  "note": "The original submission inferred drug-treats-disease edges from shared targets; the audit counts how many known compound-disease labels would have been connected through such circular drug bridges."
+}

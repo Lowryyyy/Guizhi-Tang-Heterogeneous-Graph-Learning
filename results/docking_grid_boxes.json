@@ -1,0 +1,128 @@
+{
+  "AKT1": {
+    "pdb": "4EKL",
+    "center": [
+      28.03,
+      5.22,
+      10.89
+    ],
+    "size_A": [
+      25,
+      25,
+      25
+    ],
+    "pocket": "co-crystallised inhibitor 0RF (allosteric pocket)"
+  },
+  "BCL2": {
+    "pdb": "4LVT",
+    "center": [
+      7.63,
+      -2.99,
+      -8.72
+    ],
+    "size_A": [
+      25,
+      25,
+      25
+    ],
+    "pocket": "co-crystallised inhibitor 1XJ (BH3 groove)"
+  },
+  "CASP3": {
+    "pdb": "1NME",
+    "center": [
+      42.09,
+      96.34,
+      24.13
+    ],
+    "size_A": [
+      25,
+      25,
+      25
+    ],
+    "pocket": "co-crystallised inhibitor 159 (active site)"
+  },
+  "CDK2": {
+    "pdb": "1HCK",
+    "center": [
+      100.54,
+      97.89,
+      81.72
+    ],
+    "size_A": [
+      25,
+      25,
+      25
+    ],
+    "pocket": "ATP-binding site (ATP ligand centroid)"
+  },
+  "SRC": {
+    "pdb": "1Y57",
+    "center": [
+      18.36,
+      35.44,
+      39.77
+    ],
+    "size_A": [
+      25,
+      25,
+      25
+    ],
+    "pocket": "co-crystallised inhibitor MPZ (kinase hinge)"
+  },
+  "PTGS2": {
+    "pdb": "5KIR",
+    "center": [
+      23.21,
+      1.32,
+      34.26
+    ],
+    "size_A": [
+      25,
+      25,
+      25
+    ],
+    "pocket": "co-crystallised inhibitor RCX (COX-2 active site)"
+  },
+  "TNF": {
+    "pdb": "2AZ5",
+    "center": [
+      -19.41,
+      74.65,
+      33.85
+    ],
+    "size_A": [
+      25,
+      25,
+      25
+    ],
+    "pocket": "co-crystallised small-molecule inhibitor 307"
+  },
+  "HRAS": {
+    "pdb": "5P21",
+    "center": [
+      11.79,
+      33.43,
+      19.66
+    ],
+    "size_A": [
+      25,
+      25,
+      25
+    ],
+    "pocket": "GppNHp nucleotide-binding pocket"
+  },
+  "MMP2": {
+    "pdb": "1QIB",
+    "center": [
+      64.27,
+      29.45,
+      19.56
+    ],
+    "size_A": [
+      25,
+      25,
+      25
+    ],
+    "pocket": "catalytic zinc site (centroid of catalytic Zn)"
+  }
+}
