@@ -1,0 +1,16 @@
+﻿{
+  "title": "Heterogeneous graph learning prioritises candidate multi-target mechanisms of Guizhi Tang (revision v2.0)",
+  "upload_type": "software",
+  "description": "Revision release accompanying the Scientific Reports manuscript 'Heterogeneous graph learning prioritises candidate multi-target mechanisms of Guizhi Tang'. Contains the curated heterogeneous knowledge graph (189 nodes, 1,322 structural edges, 154 compound-disease labels), the graph builder, four link-prediction models (MLP, GCN, R-GCN, HetGNN), leakage-free evaluation and controls (degree-only and shared-target baselines, label permutation, edge ablations, cold-start), real KEGG/Enrichr enrichment with annotation-density controls, the AutoDock Vina docking pipeline with decoy comparisons, all result tables and publication figures.",
+  "creators": [
+    {"name": "Du, Yazhou", "affiliation": "Xinjiang Second Medical College"},
+    {"name": "Luan, Feng", "affiliation": "Xinjiang Second Medical College"}
+  ],
+  "publication_date": "2026-10-20",
+  "license": "MIT",
+  "keywords": ["Guizhi Tang", "heterogeneous graph neural network", "network pharmacology", "knowledge graph", "pathway enrichment", "molecular docking", "traditional Chinese medicine"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/Lowryyyy/Guizhi-Tang-Heterogeneous-Graph-Learning", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}
+

@@ -1,0 +1,24 @@
+﻿cff-version: 1.2.0
+message: "If you use this code or data, please cite the manuscript and this release."
+title: "Heterogeneous graph learning prioritises candidate multi-target mechanisms of Guizhi Tang (revision v2.0)"
+authors:
+  - family-names: Du
+    given-names: Yazhou
+  - family-names: Luan
+    given-names: Feng
+year: 2026
+version: "2.0"
+doi: ""
+license: MIT
+repository-code: "https://github.com/Lowryyyy/Guizhi-Tang-Heterogeneous-Graph-Learning"
+url: "https://github.com/Lowryyyy/Guizhi-Tang-Heterogeneous-Graph-Learning"
+type: software
+keywords:
+  - Guizhi Tang
+  - heterogeneous graph neural network
+  - network pharmacology
+  - knowledge graph
+  - pathway enrichment
+  - molecular docking
+  - traditional Chinese medicine
+
