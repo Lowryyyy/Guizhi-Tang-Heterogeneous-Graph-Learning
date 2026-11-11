@@ -1,0 +1,17 @@
+compound,disease,score,rank,percentile,evidence,note,ref,status
+Kaempferol,Gastric ulcer,0.8155,1,0.0004,in vitro (constituent-level),"Kaempferol-containing flavonoid fraction inhibits Helicobacter pylori; no dedicated kaempferol gastric-ulcer trial was found, so this association is marked as indirect",seabuckthorn2025,predicted
+Kaempferol,COVID-19,0.7947,2,0.0009,in vivo (lung injury),Kaempferol protects against mechanical and infectious lung injury and endothelial dysfunction,redox2026,predicted
+Kaempferol,COVID-19,0.7947,2,0.0009,in silico (MPro docking),Flavonols including kaempferol dock the SARS-CoV-2 main protease with molecular dynamics,flavonol2026,predicted
+Formononetin,Rheumatoid arthritis,0.7806,3,0.0013,in vitro (RA synoviocytes),Formononetin inhibits TNF-alpha-induced HFLS-RA cells,formononetin2026,predicted
+Kaempferol,Liver cirrhosis,0.7786,4,0.0018,transcriptomics + pharmacology,Kaempferol anti-hepatic-fibrosis mechanism via transcriptomics-guided analysis,kaempferol_fibrosis2025,predicted
+Isoliquiritigenin,Hypertension,0.7671,5,0.0022,in vivo (endothelial function),Isoliquiritigenin protects endothelial function in diabetic mice (vascular protection),isoliq2024,predicted
+6-Gingerol,Breast cancer,0.7018,19,0.0085,in vitro (cancer cells),6-Gingerol inhibits MDA-MB-231 breast cancer cell metastasis,leehs2008,predicted
+6-Gingerol,Lung cancer,0.5404,112,0.0502,in vivo (mouse model),6-Gingerol prevents urethane-induced lung carcinogenesis,yao2018,predicted
+Kaempferol,Pancreatic cancer,0.6998,22,0.0099,in vitro (cancer cells),Kaempferol induces ROS-dependent apoptosis in pancreatic cancer cells,wangf2021,predicted
+Cinnamaldehyde,Lung cancer,0.2866,340,0.1523,in vitro (cancer cells),Cinnamaldehyde induces apoptosis in non-small cell lung cancer,tian2017,predicted
+Paeoniflorin,Rheumatoid arthritis,0.5362,,,review of experimental studies,Anti-inflammatory and immunoregulatory effects of paeoniflorin,zhang2020pae,training label (excluded)
+Kaempferol,Alzheimer disease,0.7378,9,0.004,in vitro/in vivo (microglia),Kaempferol attenuates microglial activation in Alzheimer's disease via HK2/NF-kappaB,kaempferol_ad2026,predicted
+Quercetin,Sepsis,0.7146,13,0.0058,review of experimental studies,Quercetin anti-inflammatory and immunomodulatory effects relevant to sepsis,liy2016,predicted
+Licochalcone A,Coronary artery disease,0.744,7,0.0031,in vivo (mouse model),Licochalcone A attenuates angiotensin II-induced abdominal aortic aneurysm,licochA2019,predicted
+Calycosin,Rheumatoid arthritis,0.7235,10,0.0045,in vivo (mouse model),Calycosin co-delivered nanomicelles ameliorate rheumatoid arthritis via macrophage polarisation,calycosin2026,predicted
+6-Gingerol,Hypertension,0.7147,12,0.0054,ex vivo (SHR aorta),Ginger rhizome extract relaxes aorta of spontaneously hypertensive rats,zingiber2020,predicted

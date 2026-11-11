@@ -1,0 +1,192 @@
+{
+  "n_pairs_total": 2387,
+  "n_unlabelled": 2233,
+  "n_evidence": 16,
+  "n_evidence_predicted": 15,
+  "evidence_top20": 12,
+  "evidence_top5pct": 13,
+  "evidence_top1pct": 13,
+  "median_rank": 9,
+  "median_percentile": 0.004,
+  "auc_vs_random": 0.9863,
+  "permutation_p": 0.0,
+  "permutation_mean_auc": 0.4983,
+  "rows": [
+    {
+      "compound": "Kaempferol",
+      "disease": "Gastric ulcer",
+      "ref": "seabuckthorn2025",
+      "evidence": "in vitro (constituent-level)",
+      "note": "Kaempferol-containing flavonoid fraction inhibits Helicobacter pylori; no dedicated kaempferol gastric-ulcer trial was found, so this association is marked as indirect",
+      "score": 0.8155,
+      "rank": 1,
+      "percentile": 0.0004,
+      "status": "predicted"
+    },
+    {
+      "compound": "Kaempferol",
+      "disease": "COVID-19",
+      "ref": "redox2026",
+      "evidence": "in vivo (lung injury)",
+      "note": "Kaempferol protects against mechanical and infectious lung injury and endothelial dysfunction",
+      "score": 0.7947,
+      "rank": 2,
+      "percentile": 0.0009,
+      "status": "predicted"
+    },
+    {
+      "compound": "Kaempferol",
+      "disease": "COVID-19",
+      "ref": "flavonol2026",
+      "evidence": "in silico (MPro docking)",
+      "note": "Flavonols including kaempferol dock the SARS-CoV-2 main protease with molecular dynamics",
+      "score": 0.7947,
+      "rank": 2,
+      "percentile": 0.0009,
+      "status": "predicted"
+    },
+    {
+      "compound": "Formononetin",
+      "disease": "Rheumatoid arthritis",
+      "ref": "formononetin2026",
+      "evidence": "in vitro (RA synoviocytes)",
+      "note": "Formononetin inhibits TNF-alpha-induced HFLS-RA cells",
+      "score": 0.7806,
+      "rank": 3,
+      "percentile": 0.0013,
+      "status": "predicted"
+    },
+    {
+      "compound": "Kaempferol",
+      "disease": "Liver cirrhosis",
+      "ref": "kaempferol_fibrosis2025",
+      "evidence": "transcriptomics + pharmacology",
+      "note": "Kaempferol anti-hepatic-fibrosis mechanism via transcriptomics-guided analysis",
+      "score": 0.7786,
+      "rank": 4,
+      "percentile": 0.0018,
+      "status": "predicted"
+    },
+    {
+      "compound": "Isoliquiritigenin",
+      "disease": "Hypertension",
+      "ref": "isoliq2024",
+      "evidence": "in vivo (endothelial function)",
+      "note": "Isoliquiritigenin protects endothelial function in diabetic mice (vascular protection)",
+      "score": 0.7671,
+      "rank": 5,
+      "percentile": 0.0022,
+      "status": "predicted"
+    },
+    {
+      "compound": "6-Gingerol",
+      "disease": "Breast cancer",
+      "ref": "leehs2008",
+      "evidence": "in vitro (cancer cells)",
+      "note": "6-Gingerol inhibits MDA-MB-231 breast cancer cell metastasis",
+      "score": 0.7018,
+      "rank": 19,
+      "percentile": 0.0085,
+      "status": "predicted"
+    },
+    {
+      "compound": "6-Gingerol",
+      "disease": "Lung cancer",
+      "ref": "yao2018",
+      "evidence": "in vivo (mouse model)",
+      "note": "6-Gingerol prevents urethane-induced lung carcinogenesis",
+      "score": 0.5404,
+      "rank": 112,
+      "percentile": 0.0502,
+      "status": "predicted"
+    },
+    {
+      "compound": "Kaempferol",
+      "disease": "Pancreatic cancer",
+      "ref": "wangf2021",
+      "evidence": "in vitro (cancer cells)",
+      "note": "Kaempferol induces ROS-dependent apoptosis in pancreatic cancer cells",
+      "score": 0.6998,
+      "rank": 22,
+      "percentile": 0.0099,
+      "status": "predicted"
+    },
+    {
+      "compound": "Cinnamaldehyde",
+      "disease": "Lung cancer",
+      "ref": "tian2017",
+      "evidence": "in vitro (cancer cells)",
+      "note": "Cinnamaldehyde induces apoptosis in non-small cell lung cancer",
+      "score": 0.2866,
+      "rank": 340,
+      "percentile": 0.1523,
+      "status": "predicted"
+    },
+    {
+      "compound": "Paeoniflorin",
+      "disease": "Rheumatoid arthritis",
+      "ref": "zhang2020pae",
+      "evidence": "review of experimental studies",
+      "note": "Anti-inflammatory and immunoregulatory effects of paeoniflorin",
+      "score": 0.5362,
+      "rank": null,
+      "percentile": null,
+      "status": "training label (excluded)"
+    },
+    {
+      "compound": "Kaempferol",
+      "disease": "Alzheimer disease",
+      "ref": "kaempferol_ad2026",
+      "evidence": "in vitro/in vivo (microglia)",
+      "note": "Kaempferol attenuates microglial activation in Alzheimer's disease via HK2/NF-kappaB",
+      "score": 0.7378,
+      "rank": 9,
+      "percentile": 0.004,
+      "status": "predicted"
+    },
+    {
+      "compound": "Quercetin",
+      "disease": "Sepsis",
+      "ref": "liy2016",
+      "evidence": "review of experimental studies",
+      "note": "Quercetin anti-inflammatory and immunomodulatory effects relevant to sepsis",
+      "score": 0.7146,
+      "rank": 13,
+      "percentile": 0.0058,
+      "status": "predicted"
+    },
+    {
+      "compound": "Licochalcone A",
+      "disease": "Coronary artery disease",
+      "ref": "licochA2019",
+      "evidence": "in vivo (mouse model)",
+      "note": "Licochalcone A attenuates angiotensin II-induced abdominal aortic aneurysm",
+      "score": 0.744,
+      "rank": 7,
+      "percentile": 0.0031,
+      "status": "predicted"
+    },
+    {
+      "compound": "Calycosin",
+      "disease": "Rheumatoid arthritis",
+      "ref": "calycosin2026",
+      "evidence": "in vivo (mouse model)",
+      "note": "Calycosin co-delivered nanomicelles ameliorate rheumatoid arthritis via macrophage polarisation",
+      "score": 0.7235,
+      "rank": 10,
+      "percentile": 0.0045,
+      "status": "predicted"
+    },
+    {
+      "compound": "6-Gingerol",
+      "disease": "Hypertension",
+      "ref": "zingiber2020",
+      "evidence": "ex vivo (SHR aorta)",
+      "note": "Ginger rhizome extract relaxes aorta of spontaneously hypertensive rats",
+      "score": 0.7147,
+      "rank": 12,
+      "percentile": 0.0054,
+      "status": "predicted"
+    }
+  ]
+}
